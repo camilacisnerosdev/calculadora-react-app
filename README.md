@@ -10,9 +10,7 @@ Ejecutar el comando `npm start` en el terminal.
 Para instalar los módulos necesarios para la aplicación, debes ejecutar el comando `npm install` en el terminal.
 
 ## Vista previa
-
-[![Vista previa](https://raw.githubusercontent.com/camilacisnerosdev/calculadora-react-app/main/vistaprevia.png)]
-(https://github.com/camilacisnerosdev/calculadora-react-app/blob/04bedc9cb0ac0f69f593d3ab60100e36593da1a2/vista%20previa.png)
+[vista-previa.png](https://postimg.cc/Y4PCL7x1)
 
 
 
