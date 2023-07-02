@@ -10,7 +10,6 @@ Ejecutar el comando `npm start` en el terminal.
 Para instalar los módulos necesarios para la aplicación, debes ejecutar el comando `npm install` en el terminal.
 
 ## Vista previa
-[vista-previa.png](https://postimg.cc/Y4PCL7x1)
 
 ![Vista previa](vista%20previa.png)
 
