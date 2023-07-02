@@ -12,6 +12,8 @@ Para instalar los módulos necesarios para la aplicación, debes ejecutar el com
 ## Vista previa
 [vista-previa.png](https://postimg.cc/Y4PCL7x1)
 
+![Vista previa](vista%20previa.png)
+
 
 
 
