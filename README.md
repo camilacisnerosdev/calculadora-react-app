@@ -11,4 +11,4 @@ Para instalar los módulos necesarios para la aplicación, debes ejecutar el com
 
 ## Vista previa
 
-https://raw.githubusercontent.com/camilacisnerosdev/calculadora-react-app/main/vista previa.png
+https://raw.githubusercontent.com/camilacisnerosdev/calculadora-react-app/main/vistaprevia.png
